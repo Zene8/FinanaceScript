@@ -1,0 +1,44 @@
+=======================================
+      PERSONAL FINANCE SUMMARY
+=======================================
+
+Report Generated: 2025-09-04 18:55:34
+Date Range: 2023-11-30 to 2025-09-04
+
+--- Overall Summary ---
+Total Spending: $8,554.26
+Total Payments/Credits: $7,907.31
+Net Activity: $646.95
+
+--- Spending by Category ---
+Merchandise               $2,701.50
+Dining                    $1,386.03
+Other Travel              $1,168.04
+Restaurants               $876.14
+Supermarkets              $294.21
+Entertainment             $292.86
+Travel/ Entertainment     $292.67
+Gasoline                  $262.94
+Department Stores         $230.43
+Lodging                   $216.49
+Other Services            $206.30
+Education                 $165.57
+Other                     $104.04
+Services                  $97.24
+Internet                  $86.50
+Phone/Cable               $79.18
+Airfare                   $54.31
+Professional Services     $25.20
+Health Care               $14.61
+
+--- Top 10 Vendors by Spending ---
+eBay                      $916.07
+Mynextbike.Co.Uk 07398649228 Gbr554.00 @ 00000001.3261720 Gbp $734.70
+Tesco                     $389.35
+Uber                      $350.90
+Pizza Express             $309.94
+Amazon                    $294.61
+Durham University         $267.32
+Conundroom.Us 4259061094 Wa $265.43
+Trainpal                  $251.74
+Shein.Com                 $228.70
